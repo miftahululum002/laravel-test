@@ -1,4 +1,15 @@
 <?php
+/*
+ * Copyright (c) 2024.
+ * author: Miftahul Ulum
+ * email: ulumiftahul06@gmail.com
+ * github: miftahululum002.github.io
+ * instagram: @berandal_usaha_apik / @miftahululum002
+ *
+ * Filename: WorkTransactionSeeder.php
+ * created: 2024-07-10 10:58:23
+ * last modified: 2024-07-10 10:41:34
+ */
 
 namespace Database\Seeders;
 
