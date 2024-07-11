@@ -6,4 +6,5 @@ use App\Http\Controllers\WorkTransactionController;
 //    return view('welcome');
 //});
 
-Route::get('/',[WorkTransactionController::class,'index']);
+Route::get('/',[WorkTransactionController::class,'index'])->name('index');
+Route::get('/data',[WorkTransactionController::class,'data'])->name('data');
