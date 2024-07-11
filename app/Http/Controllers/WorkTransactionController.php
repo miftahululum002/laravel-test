@@ -1,4 +1,14 @@
 <?php
+/*
+ * Copyright (c) 2024.
+ * author: Miftahul Ulum
+ * email: ulumiftahul06@gmail.com
+ * github: miftahululum002.github.io
+ * instagram: @berandal_usaha_apik / @miftahululum002
+ *
+ * Filename: WorkTransactionController.php
+ * created: 2024-07-11 07:58:00
+ */
 
 namespace App\Http\Controllers;
 
