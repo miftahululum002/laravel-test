@@ -13,7 +13,7 @@ class MachineSeeder extends Seeder
      */
     public function run(): void
     {
-        $list =[
+        $list = [
             'LYK01',
             'LYK10',
             'LYK206',
@@ -21,7 +21,7 @@ class MachineSeeder extends Seeder
             'LYK205',
         ];
         foreach ($list as $l => $machine) {
-            Machine::create(['name'=>$machine]);
+            Machine::create(['name' => $machine]);
         }
     }
 }

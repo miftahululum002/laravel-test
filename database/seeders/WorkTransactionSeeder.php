@@ -91,7 +91,8 @@ class WorkTransactionSeeder extends Seeder
                 'duty' => 'On Duty',
             ],
         ];
-
-        WorkTransaction::insert($list);
+        foreach ($list as $i => $work) {
+            WorkTransaction::create($work);
+        }
     }
 }
