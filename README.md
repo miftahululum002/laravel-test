@@ -2,6 +2,7 @@
 
 # Deskripsi
 Project menggunakan Laravel 11, PHP versi 8.3, MySQL versi 8. Pastikan composer sudah terpasang di komputer
+Project ini dikembangkan oleh <b>Miftahul Ulum</b> silahkan kunjungi <b>miftahululum002.github.io</b> untuk informasi lebih lanjut
 # Cara Penggunaan
 <ol>
 <li>Clone atau download respository ini</li>
